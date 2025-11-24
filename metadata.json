@@ -1,0 +1,7 @@
+{
+  "name": "FalconCare",
+  "description": "A daily health and wellness voice companion that tracks mood, energy, and goals via natural conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
